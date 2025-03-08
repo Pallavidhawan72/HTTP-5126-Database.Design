@@ -15,3 +15,6 @@ In this course, I learned how to design and structure databases effectively usin
 
 ## Links
 You can find my GitHub Link Here[GitHub](https://github.com/Pallavidhawan72)
+
+## Code Sample
+SELECT * From employee;
